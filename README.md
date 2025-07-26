@@ -16,27 +16,31 @@ In addition to my technical pursuits, I actively contribute to student life as t
 ## 🛠️ Tech Stack & Skills
 
 ### 💡 AI & Data Science  
-- Machine Learning, Deep Learning, NLP, Computer Vision  
-- Data Analysis, Visualization, Transfer Learning  
-- Model Evaluation, Tuning, Time Series Analysis  
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
+`Data Analysis` `Visualization` `Transfer Learning`  
+`Model Evaluation` `Hyperparameter Tuning` `Time Series Analysis`
 
 ### 🌐 Web Development  
-- Full-stack experience with dynamic and responsive web applications  
-- RESTful API design, database integration, and client-server architecture  
+`Full-Stack Web Development` `Responsive Design` `RESTful APIs`  
+`MongoDB` `Express.js` `React.js` `Node.js`  
+`Client-Server Architecture` `JWT Authentication` `MVC Pattern`
 
 ### 📱 App Development  
-- Proficient in building Android applications with user-friendly interfaces  
+`Android Development` `XML UI Design` `Firebase Integration`  
+`Java` `SQLite`
 
 ### ⚙️ Software Engineering Practices  
-- Strong foundation in software design, documentation, debugging  
-- Adheres to Agile principles and object-oriented programming  
+`Object-Oriented Programming` `Agile Methodology` `Debugging`  
+`Code Documentation` `Version Control` `Clean Code Principles`
 
 ### 🧰 Tools & Platforms  
-- Git, GitHub, Postman, Google Colab, Kaggle, XAMPP, Power BI  
+`Git` `GitHub` `Postman` `Google Colab` `Kaggle`  
+`XAMPP` `Power BI` `VS Code` `MongoDB Atlas`
 
 ### 🌟 Soft Skills  
-- Leadership, Team Collaboration, Problem Solving  
-- Communication, Critical Thinking, Event Planning  
+`Leadership` `Team Collaboration` `Event Management`  
+`Public Speaking` `Creative Problem Solving` `Critical Thinking`
+  
 
 ---
 
