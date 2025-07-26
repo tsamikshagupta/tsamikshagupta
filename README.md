@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Terala Samiksha Gupta
 
 🎓 3rd Year CSE Student | 💻 MERN & AI Developer | 🎯 Event Management Lead  
-📍 Hyderabad, India | 🌿 Blending culture with code, tradition with technology
+📍 Hyderabad, India | 🌿 Infusing cultural depth into modern solutions through thoughtful development
 
 ---
 
