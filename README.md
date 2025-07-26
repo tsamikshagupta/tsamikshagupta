@@ -25,7 +25,7 @@ React.js • Node.js • MongoDB • Python • Java • C • PyTorch • SQL �
 
 ---
 
-## 🗣️ Roles  
+##  Roles  
 🎤 Head, Event Management – KMCE *(Organized 3+ major events)*  
 📢 Public speaker | Experienced event organizer | Creative and solution-oriented developer
 
