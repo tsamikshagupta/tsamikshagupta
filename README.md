@@ -12,13 +12,16 @@ I'm an aspiring full-stack developer and AI enthusiast, passionate about buildin
 Alongside my technical work, I actively contribute to student life as the Head of the Event Management Committee at KMCE, where I’ve successfully led multiple campus-wide events.
 
 ---
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 ### 💡 AI & Data Science  
-`Machine Learning` `Deep Learning` `PyTorch` `Transformers` `ChemBERTa` `OpenCV`
+`Machine Learning` `Deep Learning` `Natural Language Processing (NLP)` `Computer Vision`  
+`Data Analysis` `Data Visualization` `Pandas` `NumPy` `Scikit-learn` `Transformers`  
+`Model Evaluation & Tuning` `Transfer Learning` `Time Series Analysis`
 
 ### 🌐 Web Development  
-`React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `CGI Scripting`
+`React.js` `Node.js` `Express.js` `MongoDB` `RESTful API Development`  
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `CGI Scripting`
 
 ### 📱 App Development  
 `Android Development` `Kotlin`
@@ -26,8 +29,17 @@ Alongside my technical work, I actively contribute to student life as the Head o
 ### 🧠 Programming Languages  
 `Python` `Java` `JavaScript` `C` `C++` `SQL`
 
+### ⚙️ Software Engineering Practices  
+`Object-Oriented Programming (OOP)` `Agile Methodologies`  
+`Database Normalization` `Software Documentation` `Testing & Debugging`
+
 ### 🧰 Tools & Platforms  
 `Git` `GitHub` `VS Code` `Postman` `Google Colab` `Kaggle` `XAMPP` `Power BI`
+
+### 🌟 Soft Skills  
+`Team Collaboration` `Problem Solving` `Critical Thinking`  
+`Communication Skills` `Leadership & Event Management`
+
  
 
 ---
