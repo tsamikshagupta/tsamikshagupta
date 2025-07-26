@@ -15,6 +15,9 @@ In addition to my technical pursuits, I actively contribute to student life as t
 
 ## 🛠️ Tech Stack & Skills
 
+### 💬 Languages  
+`Java` `C` `C++` `Python` `SQL` `Kotlin` `JavaScript` `HTML` `CSS`
+
 ### 💡 AI & Data Science  
 `Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
 `Data Analysis` `Visualization` `Transfer Learning`  
@@ -26,7 +29,7 @@ In addition to my technical pursuits, I actively contribute to student life as t
 `Client-Server Architecture` `JWT Authentication` `MVC Pattern`
 
 ### 📱 App Development  
-`Android Development` `XML UI Design` `Firebase Integration`  
+`Android Development` `Kotlin` `XML UI Design` `Firebase Integration`  
 `Java` `SQLite`
 
 ### ⚙️ Software Engineering Practices  
@@ -40,6 +43,7 @@ In addition to my technical pursuits, I actively contribute to student life as t
 ### 🌟 Soft Skills  
 `Leadership` `Team Collaboration` `Event Management`  
 `Public Speaking` `Creative Problem Solving` `Critical Thinking`
+
   
 
 ---
