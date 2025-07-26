@@ -36,7 +36,7 @@ An AI-powered research tool to predict six key polymer properties from SMILES in
 ### 📦 Inventory Management System – KMCE  
 A backend-heavy application to digitize laboratory inventory and indent workflows  
 ⚙️ Technologies: Python, SQLite, HTML, CGI Scripting, XAMPP  
-📉 Reduced manual errors and cut processing time by 50%  
+📉 Reduced manual errors and cut processing time   
 🏫 Designed and deployed as part of an internal college initiative
 
 ---
