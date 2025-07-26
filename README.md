@@ -21,7 +21,6 @@ Alongside my technical work, I actively contribute to student life as the Head o
 `Google Colab` `Kaggle` `Power BI` `XAMPP`  
 `Git` `GitHub` `Postman` `VS Code` `CGI Scripting`  
 
-
 ---
 
 ## 📂 Selected Projects
@@ -55,7 +54,11 @@ Responsive web platform for senior citizens at Athashri Baner Block 'B'
 ❤️ Focused on ease, safety, and community engagement  
 📋 Includes health alerts, activity schedules, family updates, emergency contacts  
 🧓 Built with accessible design principles: voice assist, font control, reminders  
-...and many more
+
+---
+
+*And many more...*
+
 ---
 
 ## 🗣️ Campus Leadership & Activities  
