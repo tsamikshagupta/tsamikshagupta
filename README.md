@@ -12,14 +12,23 @@ I'm an aspiring full-stack developer and AI enthusiast, passionate about buildin
 Alongside my technical work, I actively contribute to student life as the Head of the Event Management Committee at KMCE, where I’ve successfully led multiple campus-wide events.
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
-`Python` `C` `Java` `JavaScript` `Kotlin` `SQL`  
-`React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`  
-`PyTorch` `Transformers` `ChemBERTa` `OpenCV`  
-`Google Colab` `Kaggle` `Power BI` `XAMPP`  
-`Git` `GitHub` `Postman` `VS Code` `CGI Scripting`  
+### 💡 AI & Data Science  
+`Machine Learning` `Deep Learning` `PyTorch` `Transformers` `ChemBERTa` `OpenCV`
+
+### 🌐 Web Development  
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `CGI Scripting`
+
+### 📱 App Development  
+`Android Development` `Kotlin`
+
+### 🧠 Programming Languages  
+`Python` `Java` `JavaScript` `C` `C++` `SQL`
+
+### 🧰 Tools & Platforms  
+`Git` `GitHub` `VS Code` `Postman` `Google Colab` `Kaggle` `XAMPP` `Power BI`
+ 
 
 ---
 
