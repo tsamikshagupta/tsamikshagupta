@@ -16,8 +16,8 @@ React.js • Node.js • MongoDB • Python • Java • C • PyTorch • SQL �
 
 ---
 
-## 🔥 Projects  
-🔬 **Transpolymer** – Custom Transformer to predict polymer properties *(Completed)*  
+## Projects  
+🔬 [**Transpolymer**](https://github.com/tsamikshagupta/Transpolymer-PS) – Custom Transformer to predict polymer properties *(Completed)*  
 🏡 **Balkrishna Nivas** – Family heritage platform *(MERN, multilingual)*  
 📦 **Inventory Management** – Python + SQLite tool for KMCE lab inventory  
 👵 **Athashri Baner** – Senior-friendly portal with health & community features  
@@ -32,7 +32,7 @@ React.js • Node.js • MongoDB • Python • Java • C • PyTorch • SQL �
 ---
 
 ## 📫 Let’s Connect  
-   samikshaterala9@gmail.com  
+📧 [samikshaterala9@gmail.com](mailto:samikshaterala9@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tsamikshagupta)
 
 ---
