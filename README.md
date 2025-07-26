@@ -33,19 +33,11 @@ An AI-powered research tool to predict six key polymer properties from SMILES in
 
 ---
 
-### 📦 Inventory Management System – KMCE  
+### 📦 [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
 A backend-heavy application to digitize laboratory inventory and indent workflows  
 ⚙️ Technologies: Python, SQLite, HTML, CGI Scripting, XAMPP  
-📉 Reduced manual errors and cut processing time   
-🏫 Designed and deployed as part of an internal college initiative
-
----
-
-### 🏡 Balkrishna Nivas – Family Heritage Web App  
-A genealogy-style MERN platform to preserve family stories, relationships, and history  
-🌐 Multilingual support (English & Marathi), timeline-style UI  
-📁 Features: relationship schema, story modules, event/media directories  
-🎯 Built for long-term use across generations
+📉 Reduced manual errors and cut processing time  
+🏫 Designed and deployed as part of an internal college initiative  
 
 ---
 
@@ -54,6 +46,14 @@ Responsive web platform for senior citizens at Athashri Baner Block 'B'
 ❤️ Focused on ease, safety, and community engagement  
 📋 Includes health alerts, activity schedules, family updates, emergency contacts  
 🧓 Built with accessible design principles: voice assist, font control, reminders  
+
+---
+
+### 🏡 Balkrishna Nivas – Family Heritage Web App  
+A genealogy-style MERN platform to preserve family stories, relationships, and history  
+🌐 Multilingual support (English & Marathi), timeline-style UI  
+📁 Features: relationship schema, story modules, event/media directories  
+🎯 Built for long-term use across generations  
 
 ---
 
