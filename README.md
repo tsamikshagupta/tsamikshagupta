@@ -55,7 +55,7 @@ Responsive web platform for senior citizens at Athashri Baner Block 'B'
 ❤️ Focused on ease, safety, and community engagement  
 📋 Includes health alerts, activity schedules, family updates, emergency contacts  
 🧓 Built with accessible design principles: voice assist, font control, reminders  
-
+...and many more
 ---
 
 ## 🗣️ Campus Leadership & Activities  
