@@ -13,12 +13,14 @@ Alongside my technical work, I actively contribute to student life as the Head o
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
 
-`Python` `C` `Java` `JavaScript` `SQL` 'kotlin' 
-`React.js` `Node.js` `Express.js` `MongoDB`  
-`PyTorch` `Transformers` `ChemBERTa` `Google Colab` `Kaggle`  
-`Git` `GitHub` `Postman` `VS Code` `XAMPP`
+`Python` `C` `Java` `JavaScript` `Kotlin` `SQL`  
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`  
+`PyTorch` `Transformers` `ChemBERTa` `OpenCV`  
+`Google Colab` `Kaggle` `Power BI` `XAMPP`  
+`Git` `GitHub` `Postman` `VS Code` `CGI Scripting`  
+
 
 ---
 
