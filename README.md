@@ -1,62 +1,76 @@
 # 👋 Hi, I'm Terala Samiksha Gupta
 
-🎓 3rd Year Computer Science Student | 💻 MERN & AI Developer | 🎯 Event Management Lead  
-📍 Hyderabad, India | 🌱 Building with purpose and tradition
+🎓 3rd Year CSE Student | 💻 MERN & AI Developer | 🎯 Event Management Lead  
+📍 Hyderabad, India | 🌿 Blending culture with code, tradition with technology
 
 ---
 
-## 🚀 About Me  
-I'm a passionate CSE student with experience in developing AI-powered tools and full-stack applications.  
-Skilled in both technical implementation and team coordination, I enjoy crafting meaningful solutions rooted in clarity, culture, and social impact.
+## ✨ About Me
+
+I'm an aspiring full-stack developer and AI enthusiast, passionate about building solutions that are both technically sound and socially meaningful. Whether it's crafting intelligent models for scientific research or designing accessible platforms for communities, I approach every project with thoughtfulness and intent.
+
+Alongside my technical work, I actively contribute to student life as the Head of the Event Management Committee at KMCE, where I’ve successfully led multiple campus-wide events.
 
 ---
 
-## 🧠 Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools  
 
 `Python` `C` `Java` `JavaScript` `SQL`  
 `React.js` `Node.js` `Express.js` `MongoDB`  
-`PyTorch` `ChemBERTa` `Transformers` `Google Colab` `Kaggle`  
+`PyTorch` `Transformers` `ChemBERTa` `Google Colab` `Kaggle`  
 `Git` `GitHub` `Postman` `VS Code` `Power BI` `XAMPP`
 
 ---
 
-## 📌Projects
+## 📂 Selected Projects
 
-💠 [**Transpolymer – Polymer Property Predictor**](https://github.com/tsamikshagupta/Transpolymer-PS)  
-Transformer-based model to predict key polymer properties from SMILES  
-Built using PyTorch, ChemBERTa, custom tokenizer, and regression heads  
-Integrated with MERN stack for real-time predictions  
-
-📦 **Inventory Management System – KMCE**  
-College-level project to digitize inventory and indent processes  
-Python + SQLite + HTML + XAMPP + CGI Scripting  
-Reduced processing time by 50%, improved stock accuracy  
-
-🏡 **Balkrishna Nivas – Family Heritage Platform**  
-MERN-based platform to record family relationships and stories  
-Includes multilingual UI, event and media modules, and genealogy-style linking  
-Designed to preserve cultural and generational legacy  
-
-👵 **Athashri Baner – Senior-Friendly Web Portal**  
-Built for elderly residents with features like emergency alerts and activity schedules  
-React-based portal with accessibility-first design (font scaling, voice assist, reminders)  
-Centralized dashboard for community, health, and family communication  
-
-And many more...
-
+### 🔬 [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
+An AI-powered research tool to predict six key polymer properties from SMILES input  
+🧪 Built with: PyTorch, ChemBERTa, custom tokenizer, regression models  
+🌐 Stack: MERN (React + Node.js + Express + MongoDB)  
+🧠 Designed for researchers in polymer science and material analysis  
 
 ---
 
-## 🗣️ Roles  
-🎤 Head, Event Management – KMCE *(Organized 3+ major events)*  
-📢 Public speaker | Experienced event organizer | Creative and solution-oriented developer
+### 📦 Inventory Management System – KMCE  
+A backend-heavy application to digitize laboratory inventory and indent workflows  
+⚙️ Technologies: Python, SQLite, HTML, CGI Scripting, XAMPP  
+📉 Reduced manual errors and cut processing time by 50%  
+🏫 Designed and deployed as part of an internal college initiative
+
+---
+
+### 🏡 Balkrishna Nivas – Family Heritage Web App  
+A genealogy-style MERN platform to preserve family stories, relationships, and history  
+🌐 Multilingual support (English & Marathi), timeline-style UI  
+📁 Features: relationship schema, story modules, event/media directories  
+🎯 Built for long-term use across generations
+
+---
+
+### 👵 Athashri Baner – Senior Citizen Portal  
+Responsive web platform for senior citizens at Athashri Baner Block 'B'  
+❤️ Focused on ease, safety, and community engagement  
+📋 Includes health alerts, activity schedules, family updates, emergency contacts  
+🧓 Built with accessible design principles: voice assist, font control, reminders  
+
+---
+
+## 🗣️ Campus Leadership & Activities  
+
+- 🎤 **Event Management Lead – KMCE**  
+  Successfully organized 3+ major events including *Dandiya Dhvani 2024*
+
+- 🗣️ **Soft Skills**  
+  Public speaking | Team coordination | Content planning | Creative direction
 
 ---
 
 ## 📫 Let’s Connect  
+
 📧 [samikshaterala9@gmail.com](mailto:samikshaterala9@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tsamikshagupta)
 
 ---
 
-🧩 *Open to AI/full-stack internships & collaborative projects*
+🎯 *Actively exploring internship roles in AI, full-stack development, or impactful tech projects.*
