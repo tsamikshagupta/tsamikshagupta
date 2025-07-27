@@ -21,7 +21,7 @@ In addition to my technical pursuits, I actively contribute to student life as t
 ### 💡 AI & Data Science  
 `Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
 `Data Analysis` `Visualization` `Transfer Learning`  
-`Model Evaluation` `Hyperparameter Tuning` `Time Series Analysis`
+`Model Evaluation` `Hyperparameter Tuning` `Time Series Analysis` `Byte Pair Encoding(BPE)`
 
 ### 🌐 Web Development  
 `Full-Stack Web Development` `Responsive Design` `RESTful APIs`  
