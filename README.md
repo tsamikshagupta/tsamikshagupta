@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Terala Samiksha Gupta
 
-🎓 3rd Year CSE Student | 💻 Full-Stack & AI Developer | 🎯 Event Management Lead  
+🎓 3rd Year CSE Student | 💻 AI & Full Stack Developer | 🎯 Event Management Lead  
 📍 Hyderabad, India 
 
 ---
