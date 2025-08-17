@@ -48,7 +48,7 @@ In addition to my technical pursuits, I actively contribute to student life as t
 
 ---
 
-## 📂 Selected Projects
+## 📂 Projects
 
 ### 🔬 [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
 An AI-powered research tool to predict six key polymer properties from SMILES input.  
