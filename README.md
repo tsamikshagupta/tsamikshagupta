@@ -72,10 +72,7 @@ Responsive web platform designed for residents of Athashri Baner Block 'B'.
 
 ---
 
-### 🏡 Balkrishna Nivas – Family Heritage Web App  
-A genealogical platform preserving family history and connections.  
-- Relationship schema, story timelines, and event/media modules  
-- Multilingual (Marathi & English), built for generational use and digital legacy  
+...And many more 
 
 ---
 
