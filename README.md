@@ -65,13 +65,6 @@ A backend-focused system to digitize laboratory inventory workflows.
 
 ---
 
-### 👵 Athashri Baner – Senior Citizen Portal  
-Responsive web platform designed for residents of Athashri Baner Block 'B'.  
-- Includes health alerts, emergency contact info, activity calendar, and family updates  
-- Focused on accessible design: voice assist, font control, and health reminders  
-
----
-
 ...And many more 
 
 ---
