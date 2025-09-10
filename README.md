@@ -1,89 +1,82 @@
-# 👋 Hello, I'm Terala Samiksha Gupta
+# Hello, I’m **Terala Samiksha Gupta**  
 
-🎓 3rd Year CSE Student | 💻 AI & Full Stack Developer | 🎯 Event Management Lead  
-📍 Hyderabad, India 
-
----
-
-## ✨ About Me
-
-I'm an aspiring full-stack developer and AI enthusiast, passionate about building solutions that are both technically sound and socially meaningful. Whether it's crafting intelligent models for scientific research or designing accessible platforms for communities, I approach every project with thoughtfulness and intent.
-
-In addition to my technical pursuits, I actively contribute to student life as the Head of the Event Management Committee at KMCE, where I have successfully led multiple campus-wide initiatives.
+🎓 3rd Year CSE Student (Data Science) |  AI & Full-Stack Developer | Event Management Lead  
+📍 Hyderabad, India  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## About Me  
 
-### 💬 Languages  
-`Java` `C` `C++` `Python` `SQL` `Kotlin` `JavaScript` `HTML` `CSS`
+I am an aspiring software engineer with a strong interest in **artificial intelligence** and **full-stack development**. My work balances technical depth with social impact—whether developing an AI model for **polymer research** or creating digital solutions that improve **community workflows**.  
 
-### 💡 AI & Data Science  
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
-`Data Analysis` `Visualization` `Transfer Learning`  
-`Model Evaluation` `Hyperparameter Tuning` `Time Series Analysis` `Byte Pair Encoding(BPE)`
-
-### 🌐 Web Development  
-`Full-Stack Web Development` `Responsive Design` `RESTful APIs`  
-`MongoDB` `Express.js` `React.js` `Node.js`  
-`Client-Server Architecture` `JWT Authentication` `MVC Pattern`
-
-### 📱 App Development  
-`Android Development` `Kotlin` `XML UI Design` `Firebase Integration`  
-`Java` `SQLite`
-
-### ⚙️ Software Engineering Practices  
-`Object-Oriented Programming` `Agile Methodology` `Debugging`  
-`Code Documentation` `Version Control` `Clean Code Principles`
-
-### 🧰 Tools & Platforms  
-`Git` `GitHub` `Postman` `Google Colab` `Kaggle`  
-`XAMPP` `Power BI` `VS Code` `MongoDB Atlas`
-
-### 🌟 Soft Skills  
-`Leadership` `Team Collaboration` `Event Management`  
-`Public Speaking` `Creative Problem Solving` `Critical Thinking`
-
-  
+Alongside academics, I contribute actively to campus life as the **Head of the Event Management Committee** at KMCE, where I have led the planning and execution of several large-scale events. This blend of technical skills and leadership experience has shaped me into a professional who values both innovation and teamwork.  
 
 ---
 
-## 📂 Projects
+## ⚙️ Technical Skills  
 
-### 🔬 [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
-An AI-powered research tool to predict six key polymer properties from SMILES input.  
-- Designed for researchers in polymer science and material analysis  
-- Seamlessly integrated with a custom-built tokenizer and regression models  
-- Full-stack deployment ensures smooth user interaction
+**Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
----
+**Artificial Intelligence & Data Science:**  
+`🤖 Machine Learning` `Deep Learning` `NLP`  `Computer Vision` `Transfer Learning` `Model Evaluation` `Data Visualization`  `BPE Tokenization`  `Time Series Analysis`  
 
-### 📦 [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
-A backend-focused system to digitize laboratory inventory workflows.  
-- Reduces manual errors and streamlines procurement processes  
-- Successfully implemented in a campus environment for regular use  
+**Web Development:**  
+`🌐 MERN Stack (MongoDB, Express, React, Node)` `RESTful APIs`  `Responsive Design` `JWT Authentication` `MVC Pattern`  
 
----
+**Mobile Development:**  
+`📱 Android Development (Kotlin, XML, Firebase, SQLite)`  
 
-...And many more 
+**Tools & Platforms:**  
+`🛠️ Git`  `GitHub` `Postman` `Google Colab` `Kaggle` `XAMPP` `Power BI` `VS Code` `MongoDB Atlas`  
 
----
-
-## 🗣️ Campus Leadership & Activities
-
-- 🎤 **Event Management Lead – KMCE**  
-  Led the successful execution of 3+ major events including *Dandiya Dhvani 2024*
-
-- 🧠 **Soft Skills & Contributions**  
-  Public speaking, content planning, creative direction, and student engagement  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [samikshaterala9@gmail.com](mailto:samikshaterala9@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/tsamikshagupta](https://www.linkedin.com/in/tsamikshagupta)
+**Software Practices:**  
+`📌 Object-Oriented Programming` `Agile Methodology` `Debugging` `Documentation` `Version Control` `Clean Code Principles`  
 
 ---
 
-🎯 *Currently exploring internship opportunities in AI, full-stack development, or technology-driven projects.*
+## 📂 Projects  
+
+### [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
+- AI-powered tool to predict six key polymer properties from SMILES input  
+- Built with custom tokenization and regression models  
+- Deployed with a full-stack interface for researchers  
+
+### [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
+- Designed to digitize and streamline laboratory inventory management  
+- Reduced manual errors and improved procurement efficiency  
+- Successfully implemented within the college environment  
+
+---
+
+## 🌟 Leadership & Activities  
+
+- **Event Management Lead – KMCE**  
+  Directed the organization of multiple high-scale events, including *Dandiya Dhvani 2024*, enhancing student engagement and community participation.  
+
+- **Student Contributor**  
+  Actively involved in academic and extracurricular initiatives that promote collaboration and skill development.  
+
+---
+
+## 📫 Contact  
+
+- **Email:** [samikshaterala9@gmail.com](mailto:samikshaterala9@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/tsamikshagupta](https://www.linkedin.com/in/tsamikshagupta)  
+
+---
+
+## 🎯 Current Focus  
+
+Currently exploring **internship opportunities** in:  
+- Artificial Intelligence and Applied Research  
+- Full-Stack Web Development  
+- Technology-driven Impactful Projects  
