@@ -53,7 +53,9 @@ Alongside academics, I contribute actively to campus life as the **Head of the E
 ### [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
 - Designed to digitize and streamline laboratory inventory management  
 - Reduced manual errors and improved procurement efficiency  
-- Successfully implemented within the college environment  
+- Successfully implemented within the college environment
+  
+And many more...
 
 ---
 
