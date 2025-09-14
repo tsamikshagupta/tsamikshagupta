@@ -57,17 +57,7 @@ Alongside academics, I contribute actively to campus life as the **Head of the E
   
 And many more...
 
----
 
-## 🌟 Leadership & Activities  
-
-- **Event Management Lead – KMCE**  
-  Directed the organization of multiple high-scale events, including *Dandiya Dhvani 2024*, enhancing student engagement and community participation.  
-
-- **Student Contributor**  
-  Actively involved in academic and extracurricular initiatives that promote collaboration and skill development.  
-
----
 
 ## 📫 Contact  
 
