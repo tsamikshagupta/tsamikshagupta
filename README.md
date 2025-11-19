@@ -9,70 +9,77 @@
 </div>
 
 ## ✨ About Me  
-I’m a passionate developer exploring the evolving world of **AI**, **NLP**, and **full-stack development**.  
-My work reflects a balance between **technical depth**, **creativity**, and **community impact** — from building advanced  
-AI models to designing platforms that improve everyday workflows.
+I’m a developer driven by curiosity and purpose — building solutions that combine **AI innovation** with **practical impact**.  
+From creating domain-specific NLP models to developing full-stack applications, I enjoy solving problems that matter.
 
-At KMCE, I also serve as the **Head of the Event Management Committee**, leading the planning and execution of  
-multiple large-scale events that bring students together and strengthen campus culture.
+As the **Head of the Event Management Committee** at KMCE, I also lead large-scale campus events that bring people together, helping me grow as a communicator and organizer.
 
 ---
 
-## 🚀 Technical Skills  
+## ⚙️ Technical Skills  
 
-**Languages:**  
-Java · C · C++ · Python · SQL · Kotlin · JavaScript · HTML5 · CSS3  
+### **Programming Languages**
+<p>
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</p>
 
-**AI/DS:**  
-Machine Learning · Deep Learning · NLP · Computer Vision · Tokenization (BPE) · Data Visualization  
+### **AI & Data Science**
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
+`Transfer Learning` `Model Evaluation` `BPE Tokenization` `Time Series`
 
-**Web Development:**  
-MERN Stack · REST APIs · Responsive UI · JWT Auth · MVC  
+### **Web Development**
+`MERN` `REST APIs` `Responsive UI` `MVC` `JWT Authentication`
 
-**Mobile:**  
-Android (Kotlin, XML, Firebase, SQLite)
+### **Mobile Development**
+`Android (Kotlin, XML, Firebase, SQLite)`
 
-**Tools:**  
-Git · GitHub · Postman · Kaggle · Google Colab · MongoDB Atlas · Power BI
+### **Tools & Platforms**
+`Git` `GitHub` `Postman` `Google Colab` `Kaggle` `MongoDB Atlas` `VS Code` `Power BI`
 
 ---
 
 ## 📂 Projects  
 
-### 🌟 **LegalTech – Court-MOE Judgment Classification System**  
-🔗 https://github.com/tsamikshagupta/LegalTech  
-A pioneering **Mixture-of-Experts** framework for Indian court judgments.  
-Features include:
+### 🔹 [LegalTech – Court-MOE Judgment Classification System](https://github.com/tsamikshagupta/LegalTech)  
+A pioneering **Mixture-of-Experts** system built for Indian court judgments.  
 - Custom domain tokenizer  
 - LegalBERT fine-tuned encoder  
-- Temperature-annealed router  
-- Five specialized expert networks  
-- Court-aware, domain-sensitive judgment classification  
-
-💡 One of the earliest student-driven Legal AI systems in this domain.
-
----
-
-### 🧪 **Transpolymer – Polymer Property Predictor**  
-🔗 https://github.com/tsamikshagupta/Transpolymer-PS  
-Custom ML pipeline to predict six polymer properties from SMILES strings,  
-featuring a custom tokenizer, MLM, and regression heads.
+- Temperature-annealed supervised router  
+- Five expert networks for: Supreme, High, District, Tribunal, Daily  
+- Achieves court-aware, domain-sensitive prediction  
+💡 *One of the earliest student-led innovations in Indian Legal AI.*
 
 ---
 
-### 📦 **Inventory Management System (KMCE)**  
-🔗 https://github.com/tsamikshagupta/inventory_management  
-Digitized the entire lab inventory process for KMCE,  
-reducing errors and improving procurement workflows.
+### 🔹 [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
+AI-powered scientific tool predicting six polymer properties from SMILES strings.  
+Features a custom tokenizer, MLM architecture, and regression models.
 
 ---
+
+### 🔹 [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
+A digital platform built to streamline laboratory inventory, reduce manual errors,  
+and improve procurement workflow efficiency.
+
+---
+and many more
 
 ## 🎯 Current Focus  
-Seeking opportunities in:  
-- Applied AI & Research  
-- MERN Development  
-- AI-powered problem-solving for real-world impact
+Exploring internships in:  
+- Applied Artificial Intelligence  
+- Full-Stack Development (MERN)  
+- NLP & Domain-Specific AI Systems  
+
+---
 
 ## 📫 Contact  
-📧 **samikshaterala9@gmail.com**  
+📧 **Email:** samikshaterala9@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/tsamikshagupta
