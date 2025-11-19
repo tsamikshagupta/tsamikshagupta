@@ -1,6 +1,6 @@
 <div align="center">
 
-#  **Terala Samiksha Gupta**  
+# 🌼 **Terala Samiksha Gupta**  
 ### AI & Full-Stack Developer • CSE (Data Science) • Event Management Lead  
 📍 Hyderabad, India  
 
@@ -31,9 +31,20 @@ As the **Head of the Event Management Committee** at KMCE, I also lead large-sca
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
 
-### **AI & Data Science**
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision`  
-`Transfer Learning` `Model Evaluation` `BPE Tokenization` `Time Series`
+### **Artificial Intelligence & Machine Learning**
+`Supervised Learning` `Unsupervised Learning` `Deep Learning`  
+`Neural Networks` `Transfer Learning` `Fine-Tuning`  
+`NLP (Tokenization, BERT, RoBERTa, Custom MLMs)`  
+`Mixture-of-Experts (MoE)` `Router Networks`  
+`Sequence Models` `Embeddings` `Feature Engineering`  
+`Model Optimization (SWA, EMA, MixUp, AFT)`  
+`Model Evaluation & Metrics`  
+`Regression & Classification Models`  
+`Data Preprocessing & Augmentation`  
+`Time Series Forecasting`  
+`Explainable AI (XAI)`  
+`Dimensionality Reduction (PCA, t-SNE)`  
+`Pipeline Automation`  
 
 ### **Web Development**
 `MERN` `REST APIs` `Responsive UI` `MVC` `JWT Authentication`
@@ -42,7 +53,8 @@ As the **Head of the Event Management Committee** at KMCE, I also lead large-sca
 `Android (Kotlin, XML, Firebase, SQLite)`
 
 ### **Tools & Platforms**
-`Git` `GitHub` `Postman` `Google Colab` `Kaggle` `MongoDB Atlas` `VS Code` `Power BI`
+`Git` `GitHub` `Postman` `Google Colab` `Kaggle`  
+`MongoDB Atlas` `VS Code` `Power BI`
 
 ---
 
@@ -60,8 +72,9 @@ A pioneering **Mixture-of-Experts** system built for Indian court judgments.
 ---
 
 ### 🔹 [Transpolymer – Polymer Property Predictor](https://github.com/tsamikshagupta/Transpolymer-PS)  
-AI-powered scientific tool predicting six polymer properties from SMILES strings.  
-Features a custom tokenizer, MLM architecture, and regression models.
+- AI-powered tool to predict six key polymer properties from SMILES input
+- Built with custom tokenization and regression models
+- Deployed with a full-stack interface for researchers
 
 ---
 
@@ -70,7 +83,6 @@ A digital platform built to streamline laboratory inventory, reduce manual error
 and improve procurement workflow efficiency.
 
 ---
-and many more
 
 ## 🎯 Current Focus  
 Exploring internships in:  
