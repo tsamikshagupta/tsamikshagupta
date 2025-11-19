@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌼 **Terala Samiksha Gupta**  
+#  **Terala Samiksha Gupta**  
 ### AI & Full-Stack Developer • CSE (Data Science) • Event Management Lead  
 📍 Hyderabad, India  
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## ✨ About Me  
+##  About Me  
 I’m a developer driven by curiosity and purpose — building solutions that combine **AI innovation** with **practical impact**.  
 From creating domain-specific NLP models to developing full-stack applications, I enjoy solving problems that matter.
 
