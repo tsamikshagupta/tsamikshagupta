@@ -79,9 +79,8 @@ A pioneering **Mixture-of-Experts** system built for Indian court judgments.
 ---
 
 ### 🔹 [Inventory Management System – KMCE](https://github.com/tsamikshagupta/inventory_management)  
-A digital platform built to streamline laboratory inventory, reduce manual errors,  
-and improve procurement workflow efficiency.
-
+- Designed to digitize and streamline laboratory inventory management
+- Reduced manual errors and improved procurement efficiency
 ---
 
 ## 🎯 Current Focus  
