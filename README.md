@@ -9,7 +9,7 @@
 </div>
 
 ##  About Me  
-I’m a developer driven by curiosity and purpose — building solutions that combine **AI innovation** with **practical impact**.  
+I’m a developer driven by curiosity and purpose - building solutions that combine **AI innovation** with **practical impact**.  
 From creating domain-specific NLP models to developing full-stack applications, I enjoy solving problems that matter.
 
 As the **Head of the Event Management Committee** at KMCE, I also lead large-scale campus events that bring people together, helping me grow as a communicator and organizer.
