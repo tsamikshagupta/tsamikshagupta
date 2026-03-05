@@ -13,7 +13,7 @@ Hyderabad, India
 
 ## About Me
 
-I am a **Computer Science student specializing in Data Science** at **Keshav Memorial College of Engineering (KMCE)**, passionate about building **AI-driven systems and scalable full-stack applications**.
+I am a **Computer Science student specializing in Data Science** at **Keshav Memorial College of Engineering **, passionate about building **AI-driven systems and scalable full-stack applications**.
 
 My work focuses on **domain-specific machine learning**, **natural language processing**, and **end-to-end product development**. I enjoy taking ideas from research concepts to fully functional systems.
 
