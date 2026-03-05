@@ -162,4 +162,3 @@ Currently exploring opportunities in
 
 ---
 
-⭐ *Always building, always learning.*
