@@ -67,7 +67,7 @@ Beyond development, I serve as the **Head of the Event Management Committee at K
 
 ---
 
-# Featured Projects
+# Projects
 
 ### LegalTech – Court-MOE Judgment Classification System
 Mixture-of-Experts architecture designed for **Indian legal judgment classification**
