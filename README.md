@@ -90,6 +90,24 @@ Exploring internships in:
 
 ---
 
-## 📫 Contact  
-📧 **Email:** samikshaterala9@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/tsamikshagupta
+## 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:samikshaterala9@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/tsamikshagupta/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/samikshaterala/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+</a>
+
+</p>
