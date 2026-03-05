@@ -79,6 +79,8 @@ Key Highlights
 - Temperature-annealed **supervised router**
 - Five specialized expert models
 - Court-aware prediction architecture
+- 💡 **Pioneering Student-Led Legal AI System**  
+One of the earliest student-developed **Mixture-of-Experts architectures applied to Indian legal judgment classification**, demonstrating the potential of domain-specific AI systems in the LegalTech ecosystem.
 
 Repository  
 https://github.com/tsamikshagupta/LegalTech
