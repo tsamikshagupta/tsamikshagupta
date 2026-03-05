@@ -23,42 +23,47 @@ Beyond development, I serve as the **Head of the Event Management Committee at K
 
 ---
 
-# Tech Stack
+## ⚙️ Technical Skills
 
-### Programming Languages
-
+### 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### Artificial Intelligence & Machine Learning
+###  Machine Learning & AI
+`PyTorch` `Scikit-learn` `Transformers` `NLP` `Deep Learning`  
+`Mixture-of-Experts (MoE)` `LLM Fine-Tuning` `Transfer Learning`  
+`BERT` `RoBERTa` `LegalBERT` `ChemBERTa`  
+`Tokenization (BPE)` `Embeddings` `Feature Engineering`  
+`Supervised Learning` `Unsupervised Learning`  
+`Regression Models` `Classification Models`  
+`Model Evaluation (ROC-AUC, F1, Precision-Recall)`
 
-`Machine Learning` • `Deep Learning` • `Neural Networks`  
-`NLP` • `Transformers` • `BERT / RoBERTa`  
-`Mixture-of-Experts (MoE)` • `Router Networks`  
-`Fine-Tuning` • `Transfer Learning`  
-`Embeddings` • `Feature Engineering`  
-`Model Optimization (SWA, EMA, MixUp)`  
-`Explainable AI` • `Model Evaluation`
+###  Deep Learning Optimization
+`AMP (Mixed Precision Training)` `SWA` `EMA` `MixUp`  
+`Focal Loss` `Hyperparameter Tuning`  
+`GPU Training (A100)` `Large-scale Embedding Pipelines`
 
-### Web Development
+### MLOps & ML Systems
+`FastAPI` `Flask` `Docker`  
+`CI/CD (GitHub Actions)`  
+`AWS (EC2, S3)`  
+`ML Pipelines` `Batch Inference` `Real-time Inference`
 
-`MERN Stack` • `REST APIs` • `JWT Authentication`  
-`Responsive UI` • `MVC Architecture`
-
-### Mobile Development
-
-`Android Development` • `Kotlin` • `Firebase` • `SQLite`
+###  Full Stack Development
+`MongoDB` `Express.js` `React` `Node.js (MERN)`  
+`REST APIs` `JWT Authentication` `RBAC`  
+`Admin Dashboards` `Scalable Backend Architecture`
 
 ### Tools & Platforms
-
-`Git` • `GitHub` • `Google Colab` • `Kaggle`  
-`MongoDB Atlas` • `Postman` • `VS Code` • `Power BI`
+`Git` `Postman` `VS Code` `Linux`  
+`Google Colab` `Kaggle`
 
 ---
 
