@@ -117,27 +117,12 @@ https://github.com/tsamikshagupta/inventory_management
 • Solved **350+ Data Structures & Algorithms problems** across  
 LeetCode • HackerRank • CodeChef • Codeforces  
 
-• Participated in **Smart India Hackathon 2024**
-
 • Head of **Event Management Committee – KMCE**
 
-• Organized multiple large-scale campus technical events
 
 ---
 
-# GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tsamikshagupta&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsamikshagupta&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsamikshagupta&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # Current Focus
 
