@@ -1,7 +1,7 @@
 <div align="center">
 
 # Terala Samiksha Gupta
-### ML Engineer • Full-Stack Developer • CSE (Data Science)
+### ML Engineer • AI Systems Builder • CSE (Data Science)
 
 Building intelligent systems that combine **AI research with real-world applications**
 
