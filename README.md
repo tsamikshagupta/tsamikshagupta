@@ -121,7 +121,7 @@ https://github.com/tsamikshagupta/inventory_management
 
 # Achievements
 
-• Solved **350+ Data Structures & Algorithms problems** across  
+• Solved **500+ Data Structures & Algorithms problems** across  
 LeetCode • HackerRank • CodeChef • Codeforces  
 
 • Head of **Event Management Committee – KMCE**
