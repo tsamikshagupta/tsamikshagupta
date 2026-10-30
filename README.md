@@ -1,164 +1,63 @@
 <div align="center">
 
-# Terala Samiksha Gupta
-### ML Engineer • AI Systems Builder • CSE (Data Science)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SAMIKSHA.EXE&fontSize=55&color=0:0D1117,50:003B46,100:00F7FF&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=fadeIn&fontAlignY=50" width="100%" />
 
-Building intelligent systems that combine **AI research with real-world applications**
+### `curious mind. engineer's hands. builder's instinct.`
 
-Hyderabad, India
+*AI/ML · Software Engineering · Intelligent Systems*
+
+<a href="https://samikshateralaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/tsamikshagupta/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
+<a href="https://leetcode.com/u/samikshaterala/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Exploring+the+frontiers+of+AI.;Building+systems%2C+not+just+models.;Turning+curiosity+into+working+code." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+### `01 / THE HUMAN BEHIND THE CODE`
 
-I am a **Computer Science student specializing in Data Science** at **Keshav Memorial College of Engineering**, passionate about building **AI-driven systems and scalable full-stack applications**.
+Hey, I'm **Samiksha** — a Computer Science (Data Science) student at **Keshav Memorial College of Engineering**, graduating in 2027.
 
-My work focuses on **domain-specific machine learning**, **natural language processing**, and **end-to-end product development**. I enjoy taking ideas from research concepts to fully functional systems.
+I'm drawn to the space where AI research meets real-world engineering. From experimenting with language models to understanding how software systems fit together, I enjoy going beyond *making something work* to understanding *why it works*.
 
-Currently exploring **AI, NLP, and distributed ML architectures**, while also building production-ready web applications.
+Currently, I'm a **Software Engineering Intern at Ivanti**, getting hands-on experience with production engineering, automation, and building reliable software.
 
-Beyond development, I serve as the **Head of the Event Management Committee at KMCE**, where I lead large campus events and coordinate cross-team initiatives.
+### `02 / CURRENTLY IN THE LAB`
 
----
+🧠 **Court-MOE — Legal AI**  
+Exploring mixture-of-experts architectures for Indian court judgment prediction. The project combines LegalBERT-based representations, expert models, and a learned routing mechanism to investigate how specialized models can approach complex legal decisions.
 
-## ⚙️ Technical Skills
+🧪 **Transpolymer-PS — AI for Materials Science**  
+Working with molecular representations and transformer-based modeling to predict polymer properties. The goal is to connect machine learning with materials science and explore how molecular structure can inform property prediction.
 
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+### `03 / MY TOOLKIT`
 
-###  Machine Learning & AI
-`PyTorch` `Scikit-learn` `Transformers` `NLP` `Deep Learning`  
-`Mixture-of-Experts (MoE)` `LLM Fine-Tuning` `Transfer Learning`  
-`BERT` `RoBERTa` `LegalBERT` `ChemBERTa`  
-`Tokenization (BPE)` `Embeddings` `Feature Engineering`  
-`Supervised Learning` `Unsupervised Learning`  
-`Regression Models` `Classification Models`  
-`Model Evaluation (ROC-AUC, F1, Precision-Recall)`
+<div align="center">
 
-###  Deep Learning Optimization
-`AMP (Mixed Precision Training)` `SWA` `EMA` `MixUp`  
-`Focal Loss` `Hyperparameter Tuning`  
-`GPU Training (A100)` `Large-scale Embedding Pipelines`
+<img src="https://skillicons.dev/icons?i=python,java,c,pytorch,sklearn,js,react,nodejs,express,mongodb,fastapi,docker,aws,git,linux&perline=8" />
 
-### MLOps & ML Systems
-`FastAPI` `Flask` `Docker`  
-`CI/CD (GitHub Actions)`  
-`AWS (EC2, S3)`  
-`ML Pipelines` `Batch Inference` `Real-time Inference`
+</div>
 
-###  Full Stack Development
-`MongoDB` `Express.js` `React` `Node.js (MERN)`  
-`REST APIs` `JWT Authentication` `RBAC`  
-`Admin Dashboards` `Scalable Backend Architecture`
+**Interests:** Machine Learning · NLP · Transformer Models · Mixture of Experts · AI Systems · Full-Stack Development · Automation
 
-### Tools & Platforms
-`Git` `Postman` `VS Code` `Linux`  
-`Google Colab` `Kaggle`
+### `04 / BEYOND THE TERMINAL`
+
+Outside the code, I lead through my work with the **Event Management Committee**, helping bring college events to life. I enjoy taking ownership, figuring things out independently, and turning ideas into something tangible.
+
+I'm always learning, building, and looking for problems worth solving.
 
 ---
 
-# Projects
+<div align="center">
 
-### LegalTech – Court-MOE Judgment Classification System
-Mixture-of-Experts architecture designed for **Indian legal judgment classification**
+### `LET'S BUILD SOMETHING INTERESTING.`
 
-Key Highlights
+<a href="https://samikshateralaportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/tsamikshagupta">GitHub</a> · <a href="https://www.linkedin.com/in/tsamikshagupta/">LinkedIn</a>
 
-- Custom domain tokenizer for legal text
-- Fine-tuned **LegalBERT encoder**
-- Temperature-annealed **supervised router**
-- Five specialized expert models
-- Court-aware prediction architecture
-- 💡 **Pioneering Student-Led Legal AI System**  
-One of the earliest student-developed **Mixture-of-Experts architectures applied to Indian legal judgment classification**, demonstrating the potential of domain-specific AI systems in the LegalTech ecosystem.
+<img src="https://github-readme-stats.vercel.app/api?username=tsamikshagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="160" alt="GitHub Stats" />
 
-Repository  
-https://github.com/tsamikshagupta/LegalTech
+<sub><code>stay curious.exe — always running</code></sub>
 
----
-
-### Transpolymer – Polymer Property Predictor
-
-AI-based system designed to predict **six key polymer properties from SMILES molecular representations**
-
-Features
-
-- Custom tokenization pipeline
-- Regression models for property prediction
-- End-to-end ML pipeline
-- Integrated full-stack interface
-
-Repository  
-https://github.com/tsamikshagupta/Transpolymer-PS
-
----
-
-### Inventory Management System – KMCE
-
-Web-based system built for managing **laboratory inventory and procurement processes**
-
-Key Features
-
-- Centralized inventory tracking
-- Database-driven management system
-- Reduced manual record-keeping errors
-- Improved procurement transparency
-
-Repository  
-https://github.com/tsamikshagupta/inventory_management
-
----
-
-# Achievements
-
-• Solved **500+ Data Structures & Algorithms problems** across  
-LeetCode • HackerRank • CodeChef • Codeforces  
-
-• Head of **Event Management Committee – KMCE**
-
-
----
-
-
-
-# Current Focus
-
-Currently exploring opportunities in
-
-• Artificial Intelligence  
-• Machine Learning Engineering  
-• Full-Stack Development  
-• NLP & Domain-Specific AI Systems
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="mailto:samikshaterala9@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tsamikshagupta/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-
-<a href="https://leetcode.com/u/samikshaterala/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
-</a>
-
-</p>
-
----
-
+</div>
