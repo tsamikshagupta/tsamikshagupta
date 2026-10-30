@@ -96,30 +96,33 @@ The project connects molecular tokenization and learned representations with pro
 🛠️ **Engineering mindset** — Moving from isolated implementations to understanding the larger system.
 
 ---
-
 ### `05 // GITHUB.ACTIVITY`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tsamikshagupta&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="80%" alt="Samiksha's GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsamikshagupta&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20COMMIT%20TIMELINE" width="100%" alt="GitHub contribution activity graph" />
-
-<br/><br/>
-
-<a href="https://github.com/tsamikshagupta">
-<img src="https://img.shields.io/badge/VIEW_ALL_CONTRIBUTIONS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View GitHub contributions" />
-</a>
+<img src="https://streak-stats.demolab.com?user=tsamikshagupta&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="80%" alt="GitHub contribution streak" />
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B46,50:0D1117,100:00F7FF&height=100&section=footer" width="100%" />
+
 ### `LET'S BUILD SOMETHING INTERESTING.`
 
-<a href="https://samikshateralaportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/tsamikshagupta">GitHub</a> · <a href="https://www.linkedin.com/in/tsamikshagupta/">LinkedIn</a>
+<a href="https://samikshateralaportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<a href="https://github.com/tsamikshagupta">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/tsamikshagupta/">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
+</a>
 
-<br/>
+<br/><br/>
 
 `stay curious.exe — always running`
 
