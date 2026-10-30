@@ -101,13 +101,19 @@ The project connects molecular tokenization and learned representations with pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tsamikshagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="165" alt="GitHub statistics" />
+<a href="https://github.com/tsamikshagupta">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsamikshagupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" height="165" alt="Most-used programming languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tsamikshagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" alt="Samiksha's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tsamikshagupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most-used programming languages" />
+
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsamikshagupta&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20COMMIT%20TIMELINE" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://github.com/tsamikshagupta">
+<img src="https://streak-stats.demolab.com?user=tsamikshagupta&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
