@@ -4,60 +4,141 @@
 
 ### `curious mind. engineer's hands. builder's instinct.`
 
-*AI/ML · Software Engineering · Intelligent Systems*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+%3E+just+another+model.;Building+systems%2C+not+just+notebooks.;Currently+turning+ideas+into+implementations.;Java%2C+Python%2C+and+too+many+browser+tabs." alt="Animated introduction" />
+
+<br/>
 
 <a href="https://samikshateralaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/tsamikshagupta/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
 <a href="https://leetcode.com/u/samikshaterala/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Exploring+the+frontiers+of+AI.;Building+systems%2C+not+just+models.;Turning+curiosity+into+working+code." alt="Typing SVG" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tsamikshagupta&style=flat-square&color=00F7FF&label=PROFILE+VISITORS" alt="Profile visitors" />
 
 </div>
 
 ---
 
-### `01 / THE HUMAN BEHIND THE CODE`
+### `01 // ABOUT.SYS`
 
-Hey, I'm **Samiksha** — a Computer Science (Data Science) student at **Keshav Memorial College of Engineering**, graduating in 2027.
+```text
+┌──────────────────────────────────────────────────┐
+│  USER      : Samiksha Gupta                      │
+│  ROLE      : CS Student / Software Eng. Intern   │
+│  EDUCATION : CSE (Data Science) · KMCE '27       │
+│  WORKSPACE : Ivanti                              │
+│  INTERESTS : AI · ML · NLP · Systems Engineering │
+│  STATUS    : BUILDING SOMETHING INTERESTING...   │
+└──────────────────────────────────────────────────┘
+```
 
-I'm drawn to the space where AI research meets real-world engineering. From experimenting with language models to understanding how software systems fit together, I enjoy going beyond *making something work* to understanding *why it works*.
+Hey! I'm **Samiksha**, a Computer Science (Data Science) student at **Keshav Memorial College of Engineering**, currently working as a Software Engineering Intern at **Ivanti**.
 
-Currently, I'm a **Software Engineering Intern at Ivanti**, getting hands-on experience with production engineering, automation, and building reliable software.
+I'm interested in the space where AI research meets software engineering—from understanding how models learn to figuring out how entire systems fit together. My projects span legal AI and materials science, and my industry experience is helping me connect the theory with production engineering.
 
-### `02 / CURRENTLY IN THE LAB`
+Currently juggling implementations, new ideas, and the occasional bug that somehow disappears the moment I start debugging it.
 
-🧠 **Court-MOE — Legal AI**  
-Exploring mixture-of-experts architectures for Indian court judgment prediction. The project combines LegalBERT-based representations, expert models, and a learned routing mechanism to investigate how specialized models can approach complex legal decisions.
+### `02 // PROJECTS.IN_PROGRESS`
 
-🧪 **Transpolymer-PS — AI for Materials Science**  
-Working with molecular representations and transformer-based modeling to predict polymer properties. The goal is to connect machine learning with materials science and explore how molecular structure can inform property prediction.
-
-### `03 / MY TOOLKIT`
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,pytorch,sklearn,js,react,nodejs,express,mongodb,fastapi,docker,aws,git,linux&perline=8" />
+### ⚖️ COURT-MOE
+
+`LEGAL AI / NLP / MoE`
+
+<a href="https://github.com/kmceofficial/Court-MOE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kmceofficial&repo=Court-MOE&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" width="100%" alt="Court-MOE repository card" />
+</a>
 
 </div>
 
-**Interests:** Machine Learning · NLP · Transformer Models · Mixture of Experts · AI Systems · Full-Stack Development · Automation
+Exploring mixture-of-experts architectures for Indian court judgment prediction.
 
-### `04 / BEYOND THE TERMINAL`
+The project combines **LegalBERT embeddings, metadata features, a learned router, and specialized expert models** to explore how different experts can contribute to legal prediction tasks.
 
-Outside the code, I lead through my work with the **Event Management Committee**, helping bring college events to life. I enjoy taking ownership, figuring things out independently, and turning ideas into something tangible.
+`Python` `PyTorch` `LegalBERT` `NLP`
 
-I'm always learning, building, and looking for problems worth solving.
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧬 TRANSPOLYMER-PS
+
+`MATERIALS SCIENCE / TRANSFORMERS`
+
+<a href="https://github.com/tsamikshagupta/Transpolymer-PS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tsamikshagupta&repo=Transpolymer-PS&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" width="100%" alt="Transpolymer-PS repository card" />
+</a>
+
+</div>
+
+Applying transformer-based machine learning to predict **six polymer properties from SMILES molecular representations**.
+
+The project connects molecular tokenization and learned representations with property prediction in materials science.
+
+`Python` `Transformers` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+### `03 // THE TOOLBOX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,fastapi,pytorch,sklearn,docker,aws,git,linux&perline=8" alt="Technology stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Transformers%20%7C%20NLP%20%7C%20MoE-003B46?style=flat-square" />
+<img src="https://img.shields.io/badge/ENGINEERING-Automation%20%7C%20CI-003B46?style=flat-square" />
+
+</div>
+
+**Currently exploring:** intelligent systems, model architectures, production engineering, and automation.
+
+### `04 // BEYOND_THE_IDE`
+
+🎤 **Event Management** — Leadership and coordination through my college's Event Management Committee.
+
+🧠 **Problem-solving** — DSA, debugging, and understanding why something works instead of settling for the fact that it does.
+
+🛠️ **Engineering mindset** — Moving from isolated implementations to understanding the larger system.
+
+---
+
+### `05 // GITHUB.ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tsamikshagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsamikshagupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" height="165" alt="Most-used programming languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsamikshagupta&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20COMMIT%20TIMELINE" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B46,50:0D1117,100:00F7FF&height=100&section=footer" width="100%" />
 
 ### `LET'S BUILD SOMETHING INTERESTING.`
 
 <a href="https://samikshateralaportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/tsamikshagupta">GitHub</a> · <a href="https://www.linkedin.com/in/tsamikshagupta/">LinkedIn</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tsamikshagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="160" alt="GitHub Stats" />
+`stay curious.exe — always running`
 
-<sub><code>stay curious.exe — always running</code></sub>
+<sub>Made of code, caffeine, curiosity, and an unreasonable number of open tabs.</sub>
 
 </div>
