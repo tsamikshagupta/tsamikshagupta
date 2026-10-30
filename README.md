@@ -8,13 +8,9 @@
 
 <br/>
 
-<a href="https://samikshateralaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/tsamikshagupta/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
-<a href="https://leetcode.com/u/samikshaterala/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=tsamikshagupta&style=flat-square&color=00F7FF&label=PROFILE+VISITORS" alt="Profile visitors" />
+<a href="https://samikshateralaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/tsamikshagupta/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/samikshaterala/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 
 </div>
 
@@ -35,7 +31,7 @@
 
 Hey! I'm **Samiksha**, a Computer Science (Data Science) student at **Keshav Memorial College of Engineering**, currently working as a Software Engineering Intern at **Ivanti**.
 
-I'm interested in the space where AI research meets software engineering—from understanding how models learn to figuring out how entire systems fit together. My projects span legal AI and materials science, and my industry experience is helping me connect the theory with production engineering.
+I'm interested in the space where AI research meets software engineering—from understanding how models learn to figuring out how entire systems fit together. My projects span legal AI and materials science, while my industry experience is helping me connect the theory with production engineering.
 
 Currently juggling implementations, new ideas, and the occasional bug that somehow disappears the moment I start debugging it.
 
@@ -45,38 +41,26 @@ Currently juggling implementations, new ideas, and the occasional bug that someh
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>⚖️ COURT-MOE</h3>
 
-### ⚖️ COURT-MOE
+<a href="https://github.com/kmceofficial/Court-MOE"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Court-MOE" /></a>
 
-`LEGAL AI / NLP / MoE`
-
-<a href="https://github.com/kmceofficial/Court-MOE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kmceofficial&repo=Court-MOE&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" width="100%" alt="Court-MOE repository card" />
-</a>
-
-</div>
+**Legal AI · NLP · Mixture of Experts**
 
 Exploring mixture-of-experts architectures for Indian court judgment prediction.
 
-The project combines **LegalBERT embeddings, metadata features, a learned router, and specialized expert models** to explore how different experts can contribute to legal prediction tasks.
+The project combines **LegalBERT embeddings, metadata features, a learned router, and specialized expert models** to investigate how different experts can contribute to legal prediction tasks.
 
 `Python` `PyTorch` `LegalBERT` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>🧬 TRANSPOLYMER-PS</h3>
 
-### 🧬 TRANSPOLYMER-PS
+<a href="https://github.com/tsamikshagupta/Transpolymer-PS"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Transpolymer-PS" /></a>
 
-`MATERIALS SCIENCE / TRANSFORMERS`
-
-<a href="https://github.com/tsamikshagupta/Transpolymer-PS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tsamikshagupta&repo=Transpolymer-PS&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" width="100%" alt="Transpolymer-PS repository card" />
-</a>
-
-</div>
+**Materials Science · Transformers · ML**
 
 Applying transformer-based machine learning to predict **six polymer properties from SMILES molecular representations**.
 
@@ -96,12 +80,12 @@ The project connects molecular tokenization and learned representations with pro
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Transformers%20%7C%20NLP%20%7C%20MoE-003B46?style=flat-square" />
-<img src="https://img.shields.io/badge/ENGINEERING-Automation%20%7C%20CI-003B46?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Transformers%20%7C%20NLP%20%7C%20MoE-003B46?style=flat-square" alt="AI and ML interests" />
+<img src="https://img.shields.io/badge/ENGINEERING-Automation%20%7C%20CI-003B46?style=flat-square" alt="Engineering interests" />
 
 </div>
 
-**Currently exploring:** intelligent systems, model architectures, production engineering, and automation.
+**Currently exploring:** Intelligent systems, model architectures, production engineering, and automation.
 
 ### `04 // BEYOND_THE_IDE`
 
@@ -136,6 +120,8 @@ The project connects molecular tokenization and learned representations with pro
 ### `LET'S BUILD SOMETHING INTERESTING.`
 
 <a href="https://samikshateralaportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/tsamikshagupta">GitHub</a> · <a href="https://www.linkedin.com/in/tsamikshagupta/">LinkedIn</a>
+
+<br/>
 
 `stay curious.exe — always running`
 
